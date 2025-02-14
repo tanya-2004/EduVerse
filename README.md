@@ -87,3 +87,20 @@ https://github.com/tanya-2004/EduVerse/blob/main/progress.jpg
 
 ### 📚 Learning Resources  
 https://github.com/tanya-2004/EduVerse/blob/main/resources.jpg
+
+## 🕶️ VR Experience Screenshots
+
+### 🕹️ VR Simulation Options
+https://github.com/tanya-2004/EduVerse/blob/main/vr%20simulation%20options.png
+
+### 🎮 Instructions for VR Headset
+https://github.com/tanya-2004/EduVerse/blob/main/instructions%20for%20vr%20headset.png
+
+### 🏛️ VR History Tour
+https://github.com/tanya-2004/EduVerse/blob/main/vr%20history%20tour.png
+
+### 🧪 VR Chemistry Lab Experiment
+https://github.com/tanya-2004/EduVerse/blob/main/vr%20chemistry%20lab%20experiment.png
+
+### 🏫 VR Classroom
+https://github.com/tanya-2004/EduVerse/blob/main/vr%20classroom.png
