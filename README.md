@@ -2,7 +2,7 @@
 
 🚀 **EduVerse** revolutionizes traditional education by making learning more **personalized, interactive, and immersive** using **AI** and **VR** technologies.  
 
-🔗 **Live Demo:** [EduVerse App](https://eduverse-iaavc5w99-tanya-agrawals-projects.vercel.app/)  
+🔗 **Live Link:** [EduVerse App](https://eduverse-iaavc5w99-tanya-agrawals-projects.vercel.app/)  
 📄 **Presentation:** [EduVerse PPT](https://www.canva.com/design/DAGfFZELJnk/Hne1OtqFt08t1nLSuGWHHQ/edit?utm_content=DAGfFZELJnk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 
 ---
@@ -19,11 +19,11 @@ EduVerse integrates **AI-driven adaptive learning, VR-based interactive classroo
 - Custom learning paths based on individual strengths & weaknesses.  
 - **OpenAI-powered insights** for progress analysis and recommendations.  
 
-### 🔹 **2. VR-Classrooms for Real-World Learning**  
+### 🔹 **2. VR-Classrooms for Real-World Learning(USP)**  
 - **Live lectures, virtual labs, and historical site tours** for immersive education.  
 - **Unity + WebGL** ensure a seamless interactive experience.  
 
-### 🔹 **3. AI-Based Lecture Summarization**  
+### 🔹 **3. AI-Based Lecture Summarization(USP)**  
 - Generates concise, structured summaries to **enhance revision efficiency**.  
 - Saves time and **provides key takeaways instantly**.  
 
@@ -33,17 +33,8 @@ EduVerse integrates **AI-driven adaptive learning, VR-based interactive classroo
 
 ### 🔹 **5. Comprehensive Learning Resources**  
 - **Curated study materials, assignments, and notes** in a centralized system.  
-- Ensures **better organization** for students and teachers.  
-
----
-
-## 🎯 Unique Selling Points (USP)  
-✔ **AI-driven adaptive learning paths** for each student.  
-✔ **VR-powered immersive classrooms** for practical education.  
-✔ **Instant AI-generated lecture summaries** for quick revision.  
-✔ **Real-time chatbot support** for instant assistance.  
-✔ **Centralized, structured learning resources** for better organization.  
-
+- Ensures **better organization** for students and teachers.
+  
 ---
 
 ## 🛠️ Tech Stack  
