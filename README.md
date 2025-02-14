@@ -55,3 +55,35 @@ EduVerse integrates **AI-driven adaptive learning, VR-based interactive classroo
 - **Botpress** – AI-powered chatbot development  
 
 ---
+
+## 📸 Screenshots  
+
+### 🏠 Home Page  
+https://github.com/tanya-2004/EduVerse/blob/main/home%20page.jpg
+
+### 🔑 Signup Options  
+https://github.com/tanya-2004/EduVerse/blob/main/signup%20options.jpg
+
+### ℹ️ About
+https://github.com/tanya-2004/EduVerse/blob/main/about.jpg
+
+### 🗓️ View Schedule & Chatbot  
+https://github.com/tanya-2004/EduVerse/blob/main/view%20schedule%20and%20chatbot.jpg
+
+### 🛠️ Services  
+https://github.com/tanya-2004/EduVerse/blob/main/services.jpg
+
+### 🏫 Classroom  
+https://github.com/tanya-2004/EduVerse/blob/main/classroom.jpg
+
+### 🎥 Class Recording Upload  
+https://github.com/tanya-2004/EduVerse/blob/main/class%20recording%20upload.jpg
+
+### 🤖 AI-Powered Personalization  
+https://github.com/tanya-2004/EduVerse/blob/main/personalization.jpg
+
+### 📊 Progress Tracking  
+https://github.com/tanya-2004/EduVerse/blob/main/progress.jpg
+
+### 📚 Learning Resources  
+https://github.com/tanya-2004/EduVerse/blob/main/resources.jpg
