@@ -1,107 +1,85 @@
-# 🌍 EduVerse – AI & VR-Powered Learning Platform  
+<h1>🌍 EduVerse – Where AI Meets VR for Seamless Learning</h1>
 
-🚀 **EduVerse** revolutionizes traditional education by making learning more **personalized, interactive, and immersive** using **AI** and **VR** technologies.  
+<p>
+  🔗 <strong>Live Link:</strong> <a href="https://eduverse-iaavc5w99-tanya-agrawals-projects.vercel.app/" target="_blank">EduVerse Website</a><br>
+  📄 <strong>Presentation:</strong> <a href="https://www.canva.com/design/DAGfFZELJnk/Hne1OtqFt08t1nLSuGWHHQ/edit?utm_content=DAGfFZELJnk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">EduVerse PPT</a><br>
+  🌐 <strong>VR Link:</strong> <a href="https://tanya-2004.github.io/EduVerse/" target="_blank">EduVerse VR</a>
+</p>
 
-🔗 **Live Link:** [EduVerse App](https://eduverse-iaavc5w99-tanya-agrawals-projects.vercel.app/)  
-📄 **Presentation:** [EduVerse PPT](https://www.canva.com/design/DAGfFZELJnk/Hne1OtqFt08t1nLSuGWHHQ/edit?utm_content=DAGfFZELJnk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
-🌐 **VR Link:** [EduVerse VR](https://tanya-2004.github.io/EduVerse/)  
+<hr>
 
----
+<h2>🚨 Problem Statement</h2>
+<p>
+  Students today face significant challenges with traditional education methods, which often lack engagement, personalization, and practical learning opportunities. 
+  Long commutes and time-consuming logistics not only exhaust students but also increase costs, contributing to educational inequality. 
+  Despite rapid technological advancements, their integration into education remains minimal, hindering students from reaching their full potential.
+</p>
 
-## 🚨 Problem Statement  
-Students today face challenges with traditional learning methods that lack **engagement, personalization, and practical applications**. Factors such as **long commutes, high costs, and limited hands-on experience** create educational inequality. Despite technological advancements, **education remains outdated** and fails to adapt to modern learning needs.  
+<h3>🎯 SDGs Addressed:</h3>
+<ul>
+  <li>🏫 <strong>SDG 4:</strong> Quality Education</li>
+  <li>⚖️ <strong>SDG 10:</strong> Reduced Inequalities</li>
+</ul>
 
----
+<h3>🚀 Tracks Covered:</h3>
+<ul>
+  <li>✨ Youth Empowerment</li>
+  <li>🌱 Social Impact</li>
+</ul>
 
-## ✅ Our Solution  
-EduVerse integrates **AI-driven adaptive learning, VR-based interactive classrooms, and intelligent automation** to create a **holistic, efficient, and engaging** educational experience.  
+<hr>
 
-### 🔹 **1. AI-Powered Personalized Learning**  
-- Custom learning paths based on individual strengths & weaknesses.  
-- **OpenAI-powered insights** for progress analysis and recommendations.  
+<h2>💡 Our Solution</h2>
+<p>
+  EduVerse is a full-stack AI-powered, VR-enhanced platform that delivers personalized, immersive learning. 
+  Our goal is to help students focus on their education without unnecessary obstacles.
+</p>
 
-### 🔹 **2. VR-Classrooms for Real-World Learning(USP)**  
-- **Live lectures, virtual labs, and historical site tours** for immersive education.  
-- **Unity + WebGL** ensure a seamless interactive experience.  
+<h3>🌟 Key Features:</h3>
+<ul>
+  <li><strong>AI Personalization (USP):</strong> Adaptive learning paths tailored to each student’s strengths, weaknesses, and pace using OpenAI’s analysis and recommendations.</li>
+  <li><strong>VR-Classroom (USP):</strong> Real-time lectures, virtual lab experiments, and history tours for interactive, practical learning.</li>
+  <li><strong>AI Lecture Summarization:</strong> Automatic, concise lecture summaries for quick revisions.</li>
+  <li><strong>Customized AI Chatbot:</strong> Instant doubt resolution and academic assistance, leveraging OpenAI and Botpress.</li>
+  <li><strong>Comprehensive Resources:</strong> A centralized system offering study materials, assignments, and curated resources for both students and teachers.</li>
+</ul>
 
-### 🔹 **3. AI-Based Lecture Summarization(USP)**  
-- Generates concise, structured summaries to **enhance revision efficiency**.  
-- Saves time and **provides key takeaways instantly**.  
+<hr>
 
-### 🔹 **4. Customized AI Chatbot**  
-- **Instant doubt resolution** using **context-aware responses**.  
-- Integrated with **OpenAI API & Botpress** for **seamless Q&A**.  
+<h2>🛠️ Tech Stack</h2>
+<ul>
+  <li><strong>Frontend:</strong> React.js with CSS</li>
+  <li><strong>Backend:</strong> Node.js + Express.js</li>
+  <li><strong>Database:</strong> MongoDB</li>
+  <li><strong>VR Development:</strong> Unity + WebGL</li>
+  <li><strong>AI Integration:</strong> Gemini API</li>
+  <li><strong>Data Visualization:</strong> Chart.js</li>
+  <li><strong>Bot Development:</strong> Botpress</li>
+</ul>
 
-### 🔹 **5. Comprehensive Learning Resources**  
-- **Curated study materials, assignments, and notes** in a centralized system.  
-- Ensures **better organization** for students and teachers.
-  
----
+<hr>
 
-## 🛠️ Tech Stack  
+<h2>📸 Screenshots</h2>
 
-### 🔧 **Backend**  
-- **Node.js** + **Express.js** – For API development  
-- **MongoDB** – NoSQL database for scalable data storage  
+<p align="center">
+  <img src="./images/home%20page.jpg" width="30%" />
+  <img src="./images/signup%20options.jpg" width="30%" />
+  <img src="./images/personalization%20(1).jpg" width="30%" />
+</p>
+<p align="center">
+  <img src="./images/class%20recording%20upload.jpg" width="30%" />
+  <img src="./images/classroom%20(1).jpg" width="30%" />
+  <img src="./images/progress.jpg" width="30%" />
+</p>
+<p align="center">
+  <img src="./images/resources%20(1).jpg" width="30%" />
+  <img src="./images/view%20schedule%20and%20chatbot.jpg" width="30%" />
+  <img src="./images/services.jpg" width="30%" />
+</p>
+<p align="center">
+  <img src="./images/vr%20simulation%20options.png" width="30%" />
+  <img src="./images/vr%20chemistry%20lab%20experiment.png" width="30%" />
+  <img src="./images/vr%20history%20tour.png" width="30%" />
+  <img src="./images/vr%20classroom.png" width="30%" />
+</p>
 
-### 🖥️ **Frontend**  
-- **React.js + CSS** – Dynamic & responsive UI  
-- **Chart.js** – Data visualization for student progress  
-
-### 🌐 **VR Development**  
-- **Unity + WebGL** – For immersive **3D learning experiences**  
-
-### 🤖 **AI & Automation**  
-- **OpenAI API** – AI-driven learning recommendations & chatbot intelligence  
-- **Botpress** – AI-powered chatbot development  
-
----
-
-## 📸 Screenshots  
-
-### 🏠 Home Page  
-https://github.com/tanya-2004/EduVerse/blob/main/home%20page.jpg
-
-### 🔑 Signup Options  
-https://github.com/tanya-2004/EduVerse/blob/main/signup%20options.jpg
-
-### ℹ️ About
-https://github.com/tanya-2004/EduVerse/blob/main/about.jpg
-
-### 🗓️ View Schedule & Chatbot  
-https://github.com/tanya-2004/EduVerse/blob/main/view%20schedule%20and%20chatbot.jpg
-
-### 🛠️ Services  
-https://github.com/tanya-2004/EduVerse/blob/main/services.jpg
-
-### 🏫 Classroom  
-https://github.com/tanya-2004/EduVerse/blob/main/classroom.jpg
-
-### 🎥 Class Recording Upload  
-https://github.com/tanya-2004/EduVerse/blob/main/class%20recording%20upload.jpg
-
-### 🤖 AI-Powered Personalization  
-https://github.com/tanya-2004/EduVerse/blob/main/personalization.jpg
-
-### 📊 Progress Tracking  
-https://github.com/tanya-2004/EduVerse/blob/main/progress.jpg
-
-### 📚 Learning Resources  
-https://github.com/tanya-2004/EduVerse/blob/main/resources.jpg
-
-## 🕶️ VR Experience Screenshots
-
-### 🕹️ VR Simulation Options
-https://github.com/tanya-2004/EduVerse/blob/main/vr%20simulation%20options.png
-
-### 🎮 Instructions for VR Headset
-https://github.com/tanya-2004/EduVerse/blob/main/instructions%20for%20vr%20headset.png
-
-### 🏛️ VR History Tour
-https://github.com/tanya-2004/EduVerse/blob/main/vr%20history%20tour.png
-
-### 🧪 VR Chemistry Lab Experiment
-https://github.com/tanya-2004/EduVerse/blob/main/vr%20chemistry%20lab%20experiment.png
-
-### 🏫 VR Classroom
-https://github.com/tanya-2004/EduVerse/blob/main/vr%20classroom.png
