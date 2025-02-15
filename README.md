@@ -74,10 +74,9 @@
 <p align="center">
   <img src="./images/resources%20(1).jpg" width="30%" />
   <img src="./images/view%20schedule%20and%20chatbot.jpg" width="30%" />
-  <img src="./images/services.jpg" width="30%" />
+  <img src="./images/vr%20simulation%20options.png" width="30%" />
 </p>
 <p align="center">
-  <img src="./images/vr%20simulation%20options.png" width="30%" />
   <img src="./images/vr%20chemistry%20lab%20experiment.png" width="30%" />
   <img src="./images/vr%20history%20tour.png" width="30%" />
   <img src="./images/vr%20classroom.png" width="30%" />
