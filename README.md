@@ -4,6 +4,7 @@
 
 🔗 **Live Link:** [EduVerse App](https://eduverse-iaavc5w99-tanya-agrawals-projects.vercel.app/)  
 📄 **Presentation:** [EduVerse PPT](https://www.canva.com/design/DAGfFZELJnk/Hne1OtqFt08t1nLSuGWHHQ/edit?utm_content=DAGfFZELJnk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+🌐 **VR Link:** [EduVerse VR](https://tanya-2004.github.io/EduVerse/)  
 
 ---
 
