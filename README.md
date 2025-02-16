@@ -39,7 +39,7 @@
 <ul>
   <li><strong>AI Personalization (USP):</strong> Adaptive learning paths tailored to each student’s strengths, weaknesses, and pace using OpenAI’s analysis and recommendations.</li>
   <li><strong>VR-Classroom (USP):</strong> Real-time lectures, virtual lab experiments, and history tours for interactive, practical learning.</li>
-  <li><strong>AI Lecture Summarization:</strong> Automatic, concise lecture summaries for quick revisions.</li>
+  <li><strong>Class & Notes Upload:</strong> Effortlessly upload class recordings and summaries, providing students with quick and easy access to key concepts for efficient revision.</li>
   <li><strong>Customized AI Chatbot:</strong> Instant doubt resolution and academic assistance, leveraging OpenAI and Botpress.</li>
   <li><strong>Comprehensive Resources:</strong> A centralized system offering study materials, assignments, and curated resources for both students and teachers.</li>
 </ul>
