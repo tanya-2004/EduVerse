@@ -1,0 +1,238 @@
+.classroom-page {
+  background-color: #f8f9fa;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.content {
+  margin-top: 80px;
+}
+
+.join-live-btn{
+  display: block;
+  margin: 15px auto;
+  padding: 12px 20px;
+  background: #dc3545;
+  color: white;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+.upload-btn {
+  display: block;
+  margin: 15px auto;
+  padding: 12px 20px;
+  background: #007bff;
+  color: white;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.join-live-btn:hover,
+.upload-btn:hover {
+  background: #0056b3;
+}
+
+/* Improved Upload Dialog Styling */
+.upload-dialog {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #fff; /* Light blue background */
+  padding: 30px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  width: 400px;
+  max-width: 90%;
+  z-index: 1000;
+}
+
+.upload-dialog h3 {
+  text-align: center;
+  font-size: 1.5rem;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.upload-dialog input[type="text"],
+.upload-dialog input[type="date"],
+.upload-dialog input[type="file"],
+.upload-dialog button {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 15px;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #fff;
+}
+
+.upload-dialog button {
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.upload-dialog button:hover {
+  background-color: #0056b3;
+}
+
+.upload-dialog input[type="file"] {
+  background-color: #fafafa;
+}
+
+.upload-status {
+  position: fixed;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 12px 20px;
+  background-color: #28a745; /* Green for success */
+  color: white;
+  font-size: 1.2rem;
+  border-radius: 5px;
+  z-index: 1001;
+  display: none;
+}
+
+.upload-status.failure {
+  background-color: #dc3545; /* Red for failure */
+}
+
+.upload-status.show {
+  display: block;
+}
+
+.live-classes-heading {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 30px;
+}
+
+.class-table {
+  max-width: 800px;
+  margin: 30px auto;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.class-entry {
+  background: #f9f9f9;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.class-entry:hover {
+  transform: scale(1.02);
+  box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.15);
+}
+
+.class-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+.date {
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.class-actions {
+  display: flex;
+  gap: 15px;
+}
+
+.view-recording,
+.view-summary {
+  padding: 8px 15px;
+  margin: 5px;
+  background: #28a745;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.view-summary {
+  background: #17a2b8;
+}
+
+.view-recording:hover {
+  background: #218838;
+}
+
+.view-summary:hover {
+  background: #138496;
+}
+
+/* Search + Upload Section */
+.search-upload-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 500px;
+  margin-bottom: 20px;
+  gap: 15px;
+}
+
+.search-input {
+  padding: 12px;
+  font-size: 16px;
+  width: 250px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  transition: border-color 0.3s;
+}
+
+.search-input:focus {
+  border-color: #007bff;
+  outline: none;
+}
+
+.search-btn {
+  padding: 12px 20px;
+  font-size: 16px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.search-btn:hover {
+  background-color: #218838;
+}
+
+/* Shift Upload Button Left */
+.upload-btn {
+  margin-left: 10px;
+}
+
+/* Highlighting Search Result */
+.class-entry.highlighted {
+  border: 3px solid #ffc107; /* Yellow border */
+  animation: blink 1s infinite alternate;
+}
+
+@keyframes blink {
+  from {
+    box-shadow: 0 0 10px rgba(255, 193, 7, 0.7);
+  }
+  to {
+    box-shadow: 0 0 20px rgba(255, 193, 7, 1);
+  }
+}
+

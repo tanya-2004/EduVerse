@@ -1,0 +1,266 @@
+/* --- General Page Styling --- */
+.progress-page {
+  font-family: "Poppins", sans-serif;
+  padding: 80px 50px;
+  background: linear-gradient(to bottom right, #e0f7fa, #f1f8e9);
+  min-height: 100vh;
+  animation: fadeIn 1.2s ease-in-out;
+}
+
+/* --- Header --- */
+.progress-header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+.progress-header h2 {
+  font-size: 40px;
+  color: #2c3e50;
+  font-weight: 600;
+  text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* --- Main Content (Grid Layout) --- */
+.progress-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 50px;
+  padding: 30px;
+}
+
+/* --- AI Feedback Section (Left) --- */
+.feedback-card {
+  margin-top: 120px;
+  height: 400px;
+  background: #ffffff;
+  padding: 25px;
+  border-radius: 20px;
+  box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+  animation: slideInFromLeft 1s ease-out;
+  position: relative;
+}
+
+.feedback-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 5px 5px 25px rgba(0, 0, 0, 0.2);
+}
+
+.feedback-card h3 {
+  font-size: 26px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #3498db;
+}
+
+.feedback-card p {
+  font-size: 18px;
+  color: #34495e;
+  line-height: 1.6;
+}
+
+/* --- Scores Summary --- */
+.score-summary {
+  margin-top: 15px;
+}
+.score-summary p {
+  font-size: 16px;
+  font-weight: 500;
+  color: #555;
+}
+
+/* --- Charts Section (Right) --- */
+.charts-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  animation: slideInFromRight 1s ease-out;
+  background: rgba(255, 255, 255, 0.8);
+  padding: 20px;
+  border-radius: 15px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.charts-section:hover {
+  transform: translateY(-5px);
+  box-shadow: 3px 3px 15px rgba(0, 0, 0, 0.15);
+}
+
+canvas {
+  max-width: 350px;
+  max-height: 300px;
+}
+
+/* --- Animations --- */
+@keyframes slideInFromLeft {
+  from {
+    transform: translateX(-100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slideInFromRight {
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+/* --- Responsive Design --- */
+@media (max-width: 768px) {
+  .progress-content {
+    grid-template-columns: 1fr;
+  }
+  canvas {
+    max-width: 100%;
+  }
+}
+
+/* General Page Styling
+.progress-page {
+  font-family: 'Arial', sans-serif;
+  margin-top: 130px;
+  background-color: #f4f8ff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center; */
+/* padding: 20px; */
+/* }
+
+.navbar {
+  width: 100%;
+  padding: 20px;
+  background-color: #1e2a3a;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar .logo {
+  height: 50px;
+}
+
+.navbar .nav-links {
+  list-style: none;
+  display: flex;
+}
+
+.navbar .nav-links li {
+  margin: 0 10px;
+}
+
+.navbar .nav-links li a {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.progress-container {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  margin-top: 40px;
+}
+
+.progress-left, .progress-right {
+  flex: 1;
+}
+
+.progress-heading {
+  text-align: center;
+  font-size: 36px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.current-level {
+  text-align: center;
+  font-size: 24px;
+  color: #4e73df;
+  margin-bottom: 30px;
+}
+
+.feedback-box {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+  width: 90%;
+}
+
+.feedback-box p {
+  font-size: 16px;
+  color: #333;
+}
+
+.chart-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+} */
+
+/* .bar-chart, .pie-chart {
+  width: 48%; */
+/* height: 500px;  Increased height for bar chart */
+/* } */
+
+/* Footer */
+/* .footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 30px 50px;
+  background: #2c3e50;
+  color: white;
+}
+
+.footer-left {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-center {
+  text-align: center;
+  flex: 1;
+}
+
+.footer-right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.social-icons {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.social-icons a {
+  color: white;
+  font-size: 20px;
+  transition: transform 0.2s ease-in-out;
+}
+
+.social-icons a:hover {
+  transform: scale(1.1);
+} */

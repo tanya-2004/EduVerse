@@ -1,0 +1,221 @@
+/* Overall Profile Page */
+.profile-page {
+  text-align: center;
+  background-color: #f8f9fa;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  position: relative;
+}
+
+/* Centering Profile Content */
+.profile-content {
+  flex-grow: 1;
+  padding-top: 100px;
+  padding-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center horizontally */
+  justify-content: center; /* Center vertically */
+}
+
+/* Profile Heading */
+.profile-heading {
+  font-size: 28px;
+  font-weight: bold;
+  color: #2c3e50;
+  margin-bottom: 30px;
+}
+
+/* Auth Form */
+.auth-form {
+  width: 350px;
+  padding: 20px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+/* Logout Button Fix */
+.logout-btn {
+  background: #dc3545;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+  width: auto; /* Fix width */
+  max-width: 200px; /* Limit maximum width */
+  margin-top: 20px;
+}
+
+.logout-btn:hover {
+  background: #c82333;
+  transform: scale(1.05);
+}
+/* Profile Options (Student/Teacher) Centering */
+.profile-box {
+  width: 600px;
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  margin: 0 auto; /* Center the entire box */
+  gap: 20px; /* Add spacing between options */
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+  margin-bottom: 40px;
+  transition: transform 0.3s ease-in-out;
+  position: relative;
+}
+
+/* Student & Teacher Options */
+.profile-option {
+  width: 50%;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+/* Wrapper for Profile Options */
+.profile-options-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 30px auto;
+  width: 100%;
+}
+
+/* Profile Box (Student/Teacher Options) */
+/* .profile-box {
+  display: flex;
+  justify-content: space-around; 
+  align-items: center;
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+  gap: 20px;
+  max-width: 600px;
+  transition: transform 0.3s ease-in-out;
+} */
+
+.student {
+  background: #d4edda;
+}
+
+.teacher {
+  background: #f8d7da;
+}
+
+/* Buttons */
+.signup-btn,
+.signin-btn {
+  display: block;
+  width: 80%;
+  margin: 10px auto;
+  padding: 10px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.signup-btn {
+  background: #007bff;
+  color: white;
+}
+
+.signup-btn:hover {
+  background: #0056b3;
+  transform: scale(1.05);
+}
+
+.signin-btn {
+  background: #6c757d;
+  color: white;
+}
+
+.signin-btn:hover {
+  background: #5a6268;
+  transform: scale(1.05);
+}
+
+.auth-form input {
+  width: 90%;
+  padding: 10px;
+  margin: 8px 0;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.submit-btn,
+.logout-btn {
+  background: #28a745;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  margin-top: 10px;
+  cursor: pointer;
+  width: 100%;
+}
+
+.submit-btn:hover,
+.logout-btn:hover {
+  background: #218838;
+}
+
+.toggle-btn {
+  background: #007bff;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  margin-top: 10px;
+  cursor: pointer;
+  width: 100%;
+}
+
+.toggle-btn:hover {
+  background: #0056b3;
+}
+
+/* Footer */
+.profile-page .footer {
+  background-color: #2c3e50;
+  color: white;
+  padding: 20px;
+  font-size: 14px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  position: relative;
+}
+
+.footer-left,
+.footer-center,
+.footer-right {
+  flex: 1;
+  text-align: center;
+}
+
+.footer-right .social-icons a {
+  margin: 0 5px;
+  color: white;
+  font-size: 20px;
+  transition: color 0.3s;
+}
+
+.footer-right .social-icons a:hover {
+  color: #1da1f2;
+}
