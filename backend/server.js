@@ -13,7 +13,7 @@ app.use(cors());
 // Manually define MongoDB URI & JWT_SECRET
 const MONGO_URI =
   "mongodb+srv://tanya2004agrawal:nq7DwtRUMZngZWBC@cluster0.pnnpg.mongodb.net/";
-const PORT = 5000;
+const PORT = process.env.PORT || 5000;
 
 // MongoDB Connection (No deprecated options)
 mongoose
