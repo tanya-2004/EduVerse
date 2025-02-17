@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 <h1>🌍 EduVerse – Where AI Meets VR for Seamless Learning</h1>
 
 <p>
-  🔗 <strong>Live Link:</strong> <a href="https://eduverse-iaavc5w99-tanya-agrawals-projects.vercel.app/" target="_blank">EduVerse Website</a><br>
+  🔗 <strong>Live Link:</strong> <a href="https://eduverse-5anq.onrender.com/" target="_blank">EduVerse Website</a><br>
   📄 <strong>Presentation:</strong> <a href="https://www.canva.com/design/DAGfFZELJnk/Hne1OtqFt08t1nLSuGWHHQ/edit?utm_content=DAGfFZELJnk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">EduVerse PPT</a><br>
   🌐 <strong>VR Link:</strong> <a href="https://tanya-2004.github.io/EduVerse/" target="_blank">EduVerse VR</a>
 </p>
