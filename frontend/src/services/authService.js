@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:5000/auth";
+const API_URL = "https://eduversebackend-re0v.onrender.com/auth";
 
 // Signup
 export const signup = async (userData) => {

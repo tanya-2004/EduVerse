@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:5000/api/learners";
+const API_URL = "https://eduversebackend-re0v.onrender.com/api/learners";
 
 // 📌 Check if Progress Exists
 export const checkProgress = async (userId) => {
