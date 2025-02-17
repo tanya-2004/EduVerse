@@ -9,8 +9,8 @@ const learnerRoutes = require("./routes/learnerRoutes");
 const app = express();
 app.use(express.json());
 app.use(cors({
-  origin: 'https://eduverse-7zsijzkc8-tanya-agrawals-projects.vercel.app/', 
-  methods: 'GET, POST',
+  origin: 'https://eduverse-7zsijzkc8-tanya-agrawals-projects.vercel.app', 
+  methods: 'GET, POST, PUT, DELETE',
   allowedHeaders: 'Content-Type, Authorization',
 }));
 // Manually define MongoDB URI & JWT_SECRET
