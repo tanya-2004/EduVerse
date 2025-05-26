@@ -51,7 +51,7 @@ Provide motivational and constructive feedback in a brief, catchy, and engaging 
 
     try {
       const response = await axios.post(
-        `https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent?key=AIzaSyCq1dI4Tso8AB0PkxP6Yofd1CxK6lK6iEg`,
+        `https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent?key=AIzaSyBYyjQq_nYY1j-FeCWnop_QyGu-5EHSP8Q`,
         { contents: [{ parts: [{ text: prompt }] }] },
         { headers: { "Content-Type": "application/json" } }
       );
